@@ -80,13 +80,13 @@ Part 2
 **1:**
 
 
-
+![Image](Example11.png)
 
 
 **2:**
 
 
-
+![Image](Example12.png)
 
 
 **Second Example**
@@ -98,13 +98,13 @@ Part 2
 **1:**
 
 
-
+![Image](Example21.png)
 
 
 **2:**
 
 
-
+![Image](Example22.png)
 
 
 **Third Example**
@@ -116,13 +116,13 @@ Part 2
 **1:**
 
 
-
+![Image](Example31.png)
 
 
 **2:**
 
 
-
+![Image](Example32.png)
 
 
 **Fourth Example**
@@ -134,11 +134,11 @@ Part 2
 **1:**
 
 
-
+![Image](Example41.png)
 
 
 **2:**
 
 
-
+![Image](Example42.png)
 
