@@ -58,5 +58,87 @@ static int[] reversed(int[] arr) {
 ```
 
 
+* Briefly describe why the fix addresses the issue.
+
+
+The bug was that elements were being changed/added in arr from newArray and not vice versa, it also returned the old array, not newArray
+
+
 Part 2
 =========
+
+
+**Command: Find** 
+
+
+**First Example**
+
+
+`find . -name <files>`
+
+
+**1:**
+
+
+
+
+
+**2:**
+
+
+
+
+
+**Second Example**
+
+
+`find /plos -iname <files>`
+
+
+**1:**
+
+
+
+
+
+**2:**
+
+
+
+
+
+**Third Example**
+
+
+`find . -type f -name <files>`
+
+
+**1:**
+
+
+
+
+
+**2:**
+
+
+
+
+
+**Fourth Example**
+
+
+`find / -type d -name <files>`
+
+
+**1:**
+
+
+
+
+
+**2:**
+
+
+
+
