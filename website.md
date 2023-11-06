@@ -83,10 +83,16 @@ Part 2
 ![Image](Example11.png)
 
 
+This command searches for both files and directories with the given name. It is useful because you can look for specific files when there are many files within the folders.
+
+
 **2:**
 
 
 ![Image](Example12.png)
+
+
+This command searches for both files and directories with the given name. It is useful because you can look for specific files when there are many files within the folders.
 
 
 **Second Example**
@@ -101,10 +107,16 @@ Part 2
 ![Image](Example21.png)
 
 
+This command searches for files only with the given name. It is useful because it will exclude the directory in the output so that the output is easier to see.
+
+
 **2:**
 
 
 ![Image](Example22.png)
+
+
+This command searches for files only with the given name. It is useful because it will exclude the directory in the output so that the output is easier to see.
 
 
 **Third Example**
@@ -119,10 +131,16 @@ Part 2
 ![Image](Example31.png)
 
 
+This command not only searches for files with the given name but is only limited to the current working directory. It is useful because it will exclude other directories that we don't need in the output so that the output is easier to see.
+
+
 **2:**
 
 
 ![Image](Example32.png)
+
+
+This command not only searches for files with the given name but is only limited to the current working directory. It is useful because it will exclude other directories that we don't need in the output so that the output is easier to see.
 
 
 **Fourth Example**
@@ -137,10 +155,16 @@ Part 2
 ![Image](Example41.png)
 
 
+This command searches for the directory only with the given name. It is useful because it will exclude the files in the output so that the output is easier to see.
+
+
 **2:**
 
 
 ![Image](Example42.png)
+
+
+This command searches for the directory only with the given name. It is useful because it will exclude the files in the output so that the output is easier to see.
 
 
 **Cited Work**
