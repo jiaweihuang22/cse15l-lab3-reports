@@ -74,7 +74,7 @@ Part 2
 **First Example**
 
 
-`find . -name <files>`
+`find -name <files>`
 
 
 **1:**
@@ -92,7 +92,7 @@ Part 2
 **Second Example**
 
 
-`find /plos -iname <files>`
+`find -type f -name <files>`
 
 
 **1:**
@@ -128,7 +128,7 @@ Part 2
 **Fourth Example**
 
 
-`find / -type d -name <files>`
+`find -type d -name <directory>`
 
 
 **1:**
