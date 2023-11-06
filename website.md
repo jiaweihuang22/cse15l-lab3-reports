@@ -142,3 +142,7 @@ Part 2
 
 ![Image](Example42.png)
 
+
+**Cited Work**
+
+`https://linuxhandbook.com/find-command-examples/`
