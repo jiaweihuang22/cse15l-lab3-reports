@@ -131,7 +131,7 @@ This command searches for files only with the given name. It is useful because i
 ![Image](Example31.png)
 
 
-This command not only searches for files with the given name but is only limited to the current working directory. It is useful because it will exclude other directories that we don't need in the output so that the output is easier to see.
+This command searches for files based on the given size. It is useful because it will exclude files that is smaller than our expected size such as empty files in our output.
 
 
 **2:**
@@ -140,7 +140,7 @@ This command not only searches for files with the given name but is only limited
 ![Image](Example32.png)
 
 
-This command not only searches for files with the given name but is only limited to the current working directory. It is useful because it will exclude other directories that we don't need in the output so that the output is easier to see.
+This command searches for files based on the given size. It is useful because it will exclude files that is smaller than our expected size such as empty files in our output.
 
 
 **Fourth Example**
@@ -155,7 +155,7 @@ This command not only searches for files with the given name but is only limited
 ![Image](Example41.png)
 
 
-This command searches for the directory only with the given name. It is useful because it will exclude the files in the output so that the output is easier to see.
+This command searches for the directory based on how many days(the number we give) it was modified. It is useful because in the situation where we only want the files we just modified yesterday we can put the number as 1 which in the output, it will exclude all other files except the ones we modified yesterday.
 
 
 **2:**
@@ -164,9 +164,10 @@ This command searches for the directory only with the given name. It is useful b
 ![Image](Example42.png)
 
 
-This command searches for the directory only with the given name. It is useful because it will exclude the files in the output so that the output is easier to see.
+This command searches for the directory based on how many days(the number we give) it was modified. It is useful because in the situation where we only want the files we just modified yesterday we can put the number as 1 which in the output, it will exclude all other files except the ones we modified yesterday.
 
 
 **Cited Work**
 
 `https://linuxhandbook.com/find-command-examples/`
+'https://chat.openai.com/share/ccd8c3b8-0511-4ab3-b970-152ec95b1ab1'
