@@ -122,7 +122,7 @@ This command searches for files only with the given name. It is useful because i
 **Third Example**
 
 
-`find . -type f -name <files>`
+`find <directory> -size +<number>`
 
 
 **1:**
@@ -146,7 +146,7 @@ This command not only searches for files with the given name but is only limited
 **Fourth Example**
 
 
-`find -type d -name <directory>`
+`find <directory> -mtime -<number>`
 
 
 **1:**
