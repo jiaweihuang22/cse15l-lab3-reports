@@ -170,4 +170,7 @@ This command searches for the directory based on how many days(the number we giv
 **Cited Work**
 
 `https://linuxhandbook.com/find-command-examples/`
-'https://chat.openai.com/share/ccd8c3b8-0511-4ab3-b970-152ec95b1ab1'
+
+
+
+https://chat.openai.com/share/ccd8c3b8-0511-4ab3-b970-152ec95b1ab1
