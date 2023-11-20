@@ -128,7 +128,7 @@ This command searches for files only with the given name. It is useful because i
 **1:**
 
 
-![Image](Example31.png)
+![Image](Example31s.png)
 
 
 This command searches for files based on the given size. It is useful because it will exclude files that is smaller than our expected size such as empty files in our output.
@@ -137,7 +137,7 @@ This command searches for files based on the given size. It is useful because it
 **2:**
 
 
-![Image](Example32.png)
+![Image](Example32s.png)
 
 
 This command searches for files based on the given size. It is useful because it will exclude files that is smaller than our expected size such as empty files in our output.
@@ -152,7 +152,7 @@ This command searches for files based on the given size. It is useful because it
 **1:**
 
 
-![Image](Example41.png)
+![Image](Example41s.png)
 
 
 This command searches for the directory based on how many days(the number we give) it was modified. It is useful because in the situation where we only want the files we just modified yesterday we can put the number as 1 which in the output, it will exclude all other files except the ones we modified yesterday.
@@ -161,7 +161,7 @@ This command searches for the directory based on how many days(the number we giv
 **2:**
 
 
-![Image](Example42.png)
+![Image](Example42s.png)
 
 
 This command searches for the directory based on how many days(the number we give) it was modified. It is useful because in the situation where we only want the files we just modified yesterday we can put the number as 1 which in the output, it will exclude all other files except the ones we modified yesterday.
